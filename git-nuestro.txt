@@ -3,3 +3,5 @@
 
 Git nuestro que estás en los repos
 Santificados sean tus commits
+Venga a nossotros tu log
+En el local como en el remote
